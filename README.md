@@ -12,7 +12,7 @@ The logic of the API is in [apiLogic.py](https://github.com/batichico/praticeHug
 You have an API call example here -> [callApi.py](https://github.com/batichico/praticeHugAPI/blob/master/martiApi/callApi.py)
 
 ## If you want to run server use this:
-## `hug -f server.py`
+## `python callApi.py`
 
 ## You should enter to browser and paste this `https://localhost:8000/topics` for check if API works correctly. 
 
