@@ -12,5 +12,7 @@
 ## If you want to run server use this:
 `hug -f server.py`
 
+## You should enter to browser and paste this `https://localhost:8000/topics` for check if API works correctly. 
+
 ## If you want to call the API that you have running. First of all you should have [server.py](https://github.com/batichico/praticeHugAPI/blob/master/martiApi/server.py) running using `hug -f server.py` and after that you should use the next command to run callApi file :
 `hug -f callApi.py`
