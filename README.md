@@ -1,5 +1,5 @@
 
-# PRACTISE HUG API
+# PRACTICE HUG API
 ## This proyect is created using [Hug](http://www.hug.rest/) , this is the official repository -> [timothycrosley/hug](https://github.com/timothycrosley/hug)
 ## First of all, install Hug:
 `pip3 install hug --upgrade`
